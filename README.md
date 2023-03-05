@@ -44,16 +44,16 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 
 ## Data Collections
-![image](https://user-images.githubusercontent.com/57321948/193536736-5ccff349-d1fb-486e-b920-02ad7974d089.png)
+![image](https://github.com/Abdul-Jaweed/Customer-Personality-Analysis/blob/main/flowchart/1.png)
 
 
 
 ## Project Archietecture
-![image](https://user-images.githubusercontent.com/57321948/193536768-ae704adc-32d9-4c6c-b234-79c152f756c5.png)
+![image](https://github.com/Abdul-Jaweed/Customer-Personality-Analysis/blob/main/flowchart/2.png)
 
 
 ## Deployment Archietecture
-![image](https://user-images.githubusercontent.com/57321948/193536973-4530fe7d-5509-4609-bfd2-cd702fc82423.png)
+![image](https://github.com/Abdul-Jaweed/Customer-Personality-Analysis/blob/main/flowchart/3.png)
 
 
 
@@ -66,7 +66,7 @@ git clone https://github.com/Abdul-Jaweed/Customer-Personality-Analysis.git
 ### Step 2- Create a conda environment after opening the repository
 
 ```bash
-conda create -p venv  python=3.7.6 -y
+conda create -p venv  python=3.8.15 -y
 ```
 
 ```bash
